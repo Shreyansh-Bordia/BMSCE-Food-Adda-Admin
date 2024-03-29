@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87421907586",
+    "project_id": "adminpanelbmscefoodadda",
+    "storage_bucket": "adminpanelbmscefoodadda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87421907586:android:cf65f117703ce190da3a9b",
+        "android_client_info": {
+          "package_name": "com.example.adminpanelbmscefoodadda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkC4eBj4BxQJvoAQb6sSyat_ZvaIxgfQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
